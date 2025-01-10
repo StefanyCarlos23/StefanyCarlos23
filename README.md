@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Stefany Carlos 👋
 
-<p style="font-size:18px">  
+<p style="font-size:20px">  
   Sou estudante de Engenharia de Software na PUCPR, com interesse em tecnologia e desenvolvimento de sistemas. Busco sempre aprender e aplicar soluções eficientes e inovadoras para resolver desafios da área.
 </p>
 
